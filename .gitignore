@@ -1,0 +1,4 @@
+/.idea
+.coverage
+mydatabase
+__pycache__/
